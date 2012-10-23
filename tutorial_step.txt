@@ -1,0 +1,14 @@
+Total 10 Step
+
+01. create window
+02. draw line
+03. rect class
+04. clear and update
+05. sort by size
+06. card class
+07. figure class
+08. card class using bitmap
+09. card pile class
+10. create game - find couple
+11. create game - solitare
+12. create game - solitare extend
